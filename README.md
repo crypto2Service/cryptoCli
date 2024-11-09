@@ -1,4 +1,4 @@
-[简体中文]()  |  [English](https://github.com/crypto2Service/cryptoCli/blob/main/README.md/#Best Blockchain Toolboxls)
+[简体中文]()  |  [English](https://github.com/crypto2Service/cryptoCli/blob/main/README.md/#Best-Blockchain-Toolboxls)
 
 # 加密服务平台
 一个集合代币、理财、预售、挖矿、锁仓、铭文、公平发射、批量工具、Dex、dAPP等功能的区块链服务网站。
