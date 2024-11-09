@@ -1,4 +1,4 @@
-[简体中文]()  |  [English](https://github.com/crypto2Service/cryptoCli/blob/main/README.md/#Best-Blockchain-Toolboxls)
+[简体中文]()  |  [English](https://github.com/crypto2Service/cryptoCli/?tab=readme-ov-file#best-blockchain-toolbox)
 
 # 加密服务平台
 一个集合代币、理财、预售、挖矿、锁仓、铭文、公平发射、批量工具、Dex、dAPP等功能的区块链服务网站。
@@ -141,12 +141,12 @@
 
 
 ## 联系我们
-[💬 脸书](https://www.facebook.com/crypto2service)
+💬 [脸书](https://www.facebook.com/crypto2service)
 
-[🐦 推特](https://x.com/ctypto2service)
+🐦 [推特](https://x.com/ctypto2service)
 
 
-----------------------------------------------------------------------------------------
+----
 
 # Best Blockchain Toolbox
 A blockchain service website that integrates tokens, financial management, pre-sale, mining, lock-up, inscription, fair launch, batch tools, Dex, dAPP and other functions.
@@ -289,6 +289,6 @@ Website：[https://cryptoservice.io/](https://cryptoservice.io/)
 
 
 ## Contact Us
-[💬 Facebook](https://www.facebook.com/crypto2service)
+💬 [Facebook](https://www.facebook.com/crypto2service)
 
-[🐦 Twitter](https://x.com/ctypto2service)
+🐦 [Twitter](https://x.com/ctypto2service)
