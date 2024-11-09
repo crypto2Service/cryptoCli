@@ -153,11 +153,11 @@ A blockchain service website that integrates tokens, financial management, pre-s
 
 Website：[https://cryptoservice.io/](https://cryptoservice.io/)
 
-![image](/img/web.PNG)
+![image](/img/web_en.PNG)
 
 --------------------------------------------------------------------
 
-![image](/img/token.PNG "web view")
+![image](/img/token_en.PNG)
 
 ## Functional Section
 
