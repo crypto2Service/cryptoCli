@@ -1,3 +1,5 @@
+[简体中文]()  |  [English](https://github.com/crypto2Service/cryptoCli/blob/main/README.md/#Best Blockchain Toolboxls)
+
 # 加密服务平台
 一个集合代币、理财、预售、挖矿、锁仓、铭文、公平发射、批量工具、Dex、dAPP等功能的区块链服务网站。
 
@@ -64,7 +66,7 @@
 ## dApp项目
 
 ## 预售
-[简单预售](https://cryptoservice.io/#/la/st)：用户利用单个主流代币（如 USDT、USDC、ETH） 购买即将发行的代币，同时具有邀请奖励功能 
+[简单预售](https://cryptoservice.io/#/la/st)：单个代币（如 USDT、USDC、ETH） 购买即将发行的代币 + 邀请奖励 
 
 [综合预售](https://cryptoservice.io/#/la/ad)：用户可使用多种主流代币（如 USDT、USDC、ETH） 购买即将发行的代币，并且有预售团队统计、多期预售、多级邀请奖励功能 
 
@@ -138,7 +140,155 @@
 
 
 
-#### 社交媒体访问：
+## 联系我们
+[💬 脸书](https://www.facebook.com/crypto2service)
+
+[🐦 推特](https://x.com/ctypto2service)
+
+
+----------------------------------------------------------------------------------------
+
+# Best Blockchain Toolbox
+A blockchain service website that integrates tokens, financial management, pre-sale, mining, lock-up, inscription, fair launch, batch tools, Dex, dAPP and other functions.
+
+Website：[https://cryptoservice.io/](https://cryptoservice.io/)
+
+![image](/img/web.PNG)
+
+--------------------------------------------------------------------
+
+![image](/img/token.PNG "web view")
+
+## Functional Section
+
+## Classic Tokens
+[Standard Coin](https://cryptoservice.io/#/co/st/?t=0)：Standard ERC-20 protocol token
+
+[MEME Coin](https://cryptoservice.io/#/co/st/?t=1)：Stalk coins and emoji coins were born out of popular internet culture
+
+[Fair Launch](https://cryptoservice.io/#/co/fa)：Allows anyone to deploy ownerless tokens and participate in minting with one click 
+
+[Normal Coin](https://cryptoservice.io/#/co/nm)：Transfer fees, ERC-20 tokens with fake permissions 
+
+[Marketing Coin](https://cryptoservice.io/#/co/mk/?t=0)：Buying and selling marketing tokens with slippage
+
+[Dividend Coin](https://cryptoservice.io/#/co/dd/?t=0)：Holding token, wallet will receive dividends every day
+
+[Compound Coin](https://cryptoservice.io/#/co/cp/?t=0)：Holding token, wallet will compound interest every day
+
+[Lp Dividend](https://cryptoservice.io/#/co/ld/?t=0)：Adding liquidity can earn dividends
+
+[Inscription Token](https://cryptoservice.io/#/co/ins)：Fair Token Launch
+
+## Pre-sale tokens
+[Fair Launch(Sale)](https://cryptoservice.io/#/co/50/?t=1)：Fair minting through transfer, no minting dApp required 
+
+[Standard Coin(Sale)](https://cryptoservice.io/#/co/50/?t=0)：Standard tokens that can be pre-sold through transfers, no pre-sale dApp required 
+
+[Dividend Coin(Sale)](https://cryptoservice.io/#/co/dd/?t=1)：Pre-sale of coin holder dividend tokens through transfer, no pre-sale dApp required  
+
+[Lp Dividend(Sale)](https://cryptoservice.io/#/co/ld/?t=1)：Pre-sale of pool dividend tokens through transfer, no pre-sale dApp required 
+
+[Compound Coin(Sale)](https://cryptoservice.io/#/co/cp/?t=1)：Pre-sale tokens with compound interest on holdings can be realized through transfer, without pre-sale dApp
+
+[Marketing Coin(Sale)](https://cryptoservice.io/#/co/mk/?t=1)：Pre-sale marketing tokens through transfer, no pre-sale dApp required
+
+## Swap Tokens
+[ERC314 Coin](https://cryptoservice.io/#/co/314)：No need for Swap, automatic buying and selling transactions through transfer
+
+[x314 Coin](https://cryptoservice.io/#/co/x314)：No Swap required, automatic buy and sell transactions through transfer + buy and sell slippage + daily burning deflation mechanism + transaction cooling mechanism (anti-MEV attack) 
+
+## Pre-sale + Swap tokens
+[ERC314 Coin(Sale)](https://cryptoservice.io/#/co/s314)：ERC314 tokens with pre-sale
+
+[x314 Coin(Sale)](https://cryptoservice.io/#/co/x314)：X314 Tokens with Presale
+
+
+## Token Lock
+[Linear release - by period](https://cryptoservice.io/#/lo/id/?t=2)：Tokens (or LP) are locked on the chain and released once every cycle 
+
+[Linear release - over time](https://cryptoservice.io/#/lo/id/?t=1)：Tokens (or LP) are locked on the chain and released linearly according to the timeline
+
+[Fixed release](https://cryptoservice.io/#/lo/id/?t=0)：Tokens (or LP) are locked on the chain and all unlocked and released upon expiration
+
+## dApp Project
+
+## Launchpad
+[Simple presale](https://cryptoservice.io/#/la/st)：Single token (such as USDT, USDC, ETH) Purchase of upcoming tokens + invitation rewards
+
+[Advanced pre-sale](https://cryptoservice.io/#/la/ad)：You can use a variety of tokens (such as USDT, USDC, ETH) to purchase the tokens to be issued, and there are pre-sale team statistics, multi-period pre-sales, and multi-level invitation rewards.
+
+[Multiple pre-sales](https://cryptoservice.io/#/la/ad)：Pre-sale of the first, second, third, etc. is possible
+
+[Fair Launch](https://cryptoservice.io/#/la/fa)：FERC20 fair launch platform, allowing anyone to deploy ownerless tokens and participate in minting with one click, the original crowdfunding model quickly builds liquidity pools, pre-set Free Mint, whitelist, linear release modules, and provides independent private minting dApp to meet personalized launch needs
+
+[No dApp version](https://cryptoservice.io/)：Pre-sale functionality is available without dApp
+
+## Mining
+[Simple mining](https://cryptoservice.io/#/mi/st)：Stake tokens in the mining pool to get mining rewards in real time, and redeem the staked tokens at any time
+
+[Staking Mining](https://cryptoservice.io/#/mi/ch)：Mining rewards are calculated through computing power. You can get pledge computing power by locking tokens, and you can also get promotion computing power rewards by inviting others.
+
+[Mining reduction](https://cryptoservice.io/#/mi/pr)：Mining rewards are calculated by computing power. Tokens can choose different lock-up periods to obtain different pledge computing power. Invitations can also receive promotion computing power rewards, and mining will be reduced at regular intervals.
+
+[Advanced Mining](https://cryptoservice.io/#/mi/pl)：Multi-cycle lock-up, halving mechanism, automatic queue invitation, statistics of users' pledge, team computing power, lock-up, rewards and other mining information
+
+## Finance
+[Earn Coin](https://cryptoservice.io/#/fi/ea)：Users stake tokens (such as USDT) for financial management and obtain corresponding annualized returns based on the staking period 
+
+[Roast Beef](https://cryptoservice.io/#/fi/bf)：By investing BNB (roast beef), you can get BNB income (eat beef), with a daily reward of up to 10%
+
+[Dollar Beans](https://cryptoservice.io/#/fi/bn)：A reward pool that locks in USDT static income + direct referral additional income, with a daily return of up to 6.5%
+
+## Inscription / Runes
+[Inscription Pre-sale](https://cryptoservice.io/#/ins/sa)：Use ETH/BNB and other currencies to purchase inscriptions, which can be directly exchanged for self-issued tokens
+
+[Inscription Mint](https://cryptoservice.io/#/ins/pr)：Use ETH/BNB and other currencies to cast real inscriptions on the chain, and have an invitation rebate mechanism
+
+[Rune Pre-sale](https://cryptoservice.io/#/ru/sa)：Use ETH/BNB and other currencies to buy runes, which can be directly exchanged for self-issued tokens
+
+
+## DEX
+[Exchange](https://cryptoservice.io/#/sw/ex)：A token exchange B token
+
+[Add Liquidity](https://cryptoservice.io/#/sw/ad)：Token A-Token B, paired in a certain ratio and added to the decentralized exchange
+
+[My Liquidity](https://cryptoservice.io/#/sw/my)：Find the liquidity that the wallet has added on the decentralized exchange
+
+## Batch Tools
+[Multi Sender](https://cryptoservice.io/#/wa/se)：Batch transfer tokens from main wallet to sub-wallet
+
+[Token Collection](https://cryptoservice.io/#/wa/co)：Aggregate tokens from multiple sub-wallets into the main wallet
+
+[Generate wallets in batches](https://cryptoservice.io/#/wa/cr)：Generate n wallets with one click (including private keys and mnemonics)
+
+[Batch wallet query](https://cryptoservice.io/#/wa/ch)：Query wallet token asset details
+
+
+## Inscription
+[EVM inscription online](https://cryptoservice.io/#/ins/ol)：Compatible with EVM chain, can be easily engraved online
+
+[EVM Batch inscribing of inscriptions](https://cryptoservice.io/#/ins/bm)：Wallet self-batch engraving, and can also batch engrave for multiple sub-wallets 
+
+ [EVM Inscription Quick inscribing](https://cryptoservice.io/#/ins/bo)：Use contracts to quickly batch engrave
+
+
+## Other
+[Vanity Address](https://cryptoservice.io/#/ot/va)：Super auspicious/multiple consecutive numbers/birthday number wallet address
+
+[Multisig Wallet](https://cryptoservice.io/#/ot/ms)：Multiple wallets jointly manage token assets
+
+[Approve Check](https://cryptoservice.io/#/ot/ac)：Check and cancel expired or untrusted authorizations promptly 
+
+[Approve](https://cryptoservice.io/#/ot/ap)：Authorize tokens to contracts in advance to speed up purchases
+
+[ETH Unit Converter](https://cryptoservice.io/#/ot/un)：Automatic conversion of Wei/Gwei/Ether units
+
+
+
+
+
+## Contact Us
 [💬 Facebook](https://www.facebook.com/crypto2service)
 
 [🐦 Twitter](https://x.com/ctypto2service)
